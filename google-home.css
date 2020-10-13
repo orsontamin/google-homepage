@@ -2,3 +2,48 @@
     position: relative;
     float: right;
 }
+
+#google-image {
+    width: 400px;
+    height: 161px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+#search-bar {
+    width: 400px;
+    height: 25px;
+    position: relative;
+    left: 500px;
+    top: 120px;
+}
+
+.submit-btn{
+    font-size: 20px;
+    position: relative;
+    width: 100px;
+    height: 25px;
+    left: 550px;
+    top: 150px;
+}
+
+.im-feeling-lucky-btn{
+    font-size: 20px;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    left: 580px;
+    top: 150px;
+}
+
+.h3{
+    font-size: 14px;
+    position: relative;
+    height: 200px;
+    width: 100px;
+}
+
+#melayu{
+    color: blue;
+}
